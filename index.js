@@ -4,4 +4,4 @@ var kittens = ["Milo", "Otis", "Garfield"] //define your array here
 // var destructivelyAppendKitten = kittens.push("Dorota");
 //return kittens.concat();
 
-var destructivelyAppendKitten = [...kittens, "Dorota"]
+const destructivelyAppendKitten = [...kittens, "Dorota"]
