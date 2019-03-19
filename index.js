@@ -5,7 +5,7 @@ function destructivelyAppendKitten(name){
   return kittens;
 }
 
-function destructivBobelyPrependKitten(name){
+function destructivelyPrependKitten(name){
   kittens.pop("Bob")
   return kittens;
 }
